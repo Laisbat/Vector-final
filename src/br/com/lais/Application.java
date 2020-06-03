@@ -7,6 +7,7 @@ public class Application {
 	private JogoController jogoController = new JogoController();
 
 	private void inicio() {
+		
 		jogoController.jogar();
 	}
 
